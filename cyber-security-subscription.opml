@@ -5,11 +5,10 @@
 		<title>cyber-security-subscription.opml</title>
 	</head>
 <body>
-
 	<outline text="Events" title="Events">
 		<outline text="CTFtime.org: upcoming CTF events" title="CTFtime.org: upcoming CTF events" description="" type="rss" version="RSS" htmlUrl="https://ctftime.org/event/list/upcoming/rss/" xmlUrl="http://ctftime.org/event/list/upcoming/rss/"/>
 	</outline>
-	<outline text="Hacking" title="Hacking">
+	<outline text="Exploits-0days" title="Exploits-0days">
 		<outline text="1337day Inj3ct0r Exploit Database : vulnerability : 0day : shellcode by Inj3ct0r Team" title="1337day Inj3ct0r Exploit Database : vulnerability : 0day : shellcode by Inj3ct0r Team" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://1337day.com/rss"/>
 		<outline text="Carnal0wnage Blog" title="Carnal0wnage Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.carnal0wnage.com/" xmlUrl="http://carnal0wnage.attackresearch.com/feeds/posts/default"/>
 		<outline text="Corelan Cybersecurity Research" title="Corelan Cybersecurity Research" description="" type="rss" version="RSS" htmlUrl="https://www.corelan.be/" xmlUrl="https://www.corelan.be/index.php/feed/"/>
@@ -21,18 +20,8 @@
 		<outline text="SecurityTube.Net" title="SecurityTube.Net" description="" type="rss" version="RSS" htmlUrl="http://www.securitytube.net/" xmlUrl="http://feeds2.feedburner.com/SecurityTube"/>
 		<outline text="Securityvulns exploits channel" title="Securityvulns exploits channel" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://securityvulns.ru/exploits/rss.asp"/>
 	</outline>
-	<outline text="LEAK + PWN" title="LEAK + PWN">
+	<outline text="Leaks" title="Leaks">
 		<outline text="LeakedIn" title="LeakedIn" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://feeds.feedburner.com/Leakedin"/>
-	</outline>
-	<outline text="Sec-Tools" title="Sec-Tools">
-		<outline text="Command Line Kung Fu" title="Command Line Kung Fu" description="" type="rss" version="RSS" htmlUrl="http://blog.commandlinekungfu.com/" xmlUrl="http://blog.commandlinekungfu.com/feeds/posts/default"/>
-		<outline text="Computer Security Blog | Learning The Offensive Security" title="Computer Security Blog | Learning The Offensive Security" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://r00tsec.blogspot.com/feeds/posts/default"/>
-		<outline text="Download Hacking Tools at 'Tools Yard'" title="Download Hacking Tools at 'Tools Yard'" description="" type="rss" version="RSS" htmlUrl="http://thntools999.blogspot.com/" xmlUrl="http://feeds.feedburner.com/PenetrationTestingTools"/>
-		<outline text="KitPloit - PenTest Tools!" title="KitPloit - PenTest Tools!" description="" type="rss" version="RSS" htmlUrl="http://www.kitploit.com/" xmlUrl="http://feeds.feedburner.com/PentestTools"/>
-		<outline text="Network Security™" title="Network Security™" description="" type="rss" version="RSS" htmlUrl="https://seclist.us/" xmlUrl="http://feeds.feedburner.com/seclist/feed"/>
-		<outline text="PenTestIT" title="PenTestIT" description="" type="rss" version="RSS" htmlUrl="https://pentestit.com/" xmlUrl="http://feeds.feedburner.com/PenTestIT/"/>
-		<outline text="Security Tool Files ≈ Packet Storm" title="Security Tool Files ≈ Packet Storm" description="" type="rss" version="RSS" htmlUrl="https://packetstormsecurity.com/" xmlUrl="http://rss.packetstormsecurity.com/files/tags/tool/"/>
-		<outline text="ToolsWatch.org" title="ToolsWatch.org" description="" type="rss" version="RSS" htmlUrl="https://toolswatch.org/" xmlUrl="http://www.toolswatch.org/feed/"/>
 	</outline>
 	<outline text="Security" title="Security">
 		<outline text="/dev/random" title="/dev/random" description="" type="rss" version="RSS" htmlUrl="https://blog.rootshell.be/" xmlUrl="http://feeds.feedburner.com/dev/rand"/>
@@ -128,6 +117,16 @@
 		<outline text="TechNewsWorld" title="TechNewsWorld" description="" type="rss" version="RSS" htmlUrl="https://www.technewsworld.com?rss=1/" xmlUrl="http://www.technewsworld.com/perl/syndication/rssfull.pl"/>
 		<outline text="Top Tech News" title="Top Tech News" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://www.toptechnews.com/feed/rss/syndication.xml"/>
 		<outline text="xkcd.com" title="xkcd.com" description="" type="rss" version="RSS" htmlUrl="https://xkcd.com/" xmlUrl="http://xkcd.com/rss.xml"/>
+	</outline>
+	<outline text="Tools" title="Tools">
+		<outline text="Command Line Kung Fu" title="Command Line Kung Fu" description="" type="rss" version="RSS" htmlUrl="http://blog.commandlinekungfu.com/" xmlUrl="http://blog.commandlinekungfu.com/feeds/posts/default"/>
+		<outline text="Computer Security Blog | Learning The Offensive Security" title="Computer Security Blog | Learning The Offensive Security" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://r00tsec.blogspot.com/feeds/posts/default"/>
+		<outline text="Download Hacking Tools at 'Tools Yard'" title="Download Hacking Tools at 'Tools Yard'" description="" type="rss" version="RSS" htmlUrl="http://thntools999.blogspot.com/" xmlUrl="http://feeds.feedburner.com/PenetrationTestingTools"/>
+		<outline text="KitPloit - PenTest Tools!" title="KitPloit - PenTest Tools!" description="" type="rss" version="RSS" htmlUrl="http://www.kitploit.com/" xmlUrl="http://feeds.feedburner.com/PentestTools"/>
+		<outline text="Network Security™" title="Network Security™" description="" type="rss" version="RSS" htmlUrl="https://seclist.us/" xmlUrl="http://feeds.feedburner.com/seclist/feed"/>
+		<outline text="PenTestIT" title="PenTestIT" description="" type="rss" version="RSS" htmlUrl="https://pentestit.com/" xmlUrl="http://feeds.feedburner.com/PenTestIT/"/>
+		<outline text="Security Tool Files ≈ Packet Storm" title="Security Tool Files ≈ Packet Storm" description="" type="rss" version="RSS" htmlUrl="https://packetstormsecurity.com/" xmlUrl="http://rss.packetstormsecurity.com/files/tags/tool/"/>
+		<outline text="ToolsWatch.org" title="ToolsWatch.org" description="" type="rss" version="RSS" htmlUrl="https://toolswatch.org/" xmlUrl="http://www.toolswatch.org/feed/"/>
 	</outline>
 	<outline text="Vulnerability" title="Vulnerability">
 		<outline text="Adobe Product Security Incident Response Team (PSIRT) Blog" title="Adobe Product Security Incident Response Team (PSIRT) Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://blogs.adobe.com/psirt/feed"/>
